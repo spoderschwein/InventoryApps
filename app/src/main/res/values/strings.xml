@@ -1,0 +1,54 @@
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Inventory App</string>
+    <string name="delete_selected_item">Delete</string>
+    <string name="delete_dialog_msg">Delete this item ?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="save_item">Save Item</string>
+    <string name="show_quantity">Quantity: </string>
+    <string name="show_price">Price: </string>
+    <string name="show_currency">€</string>
+
+    <!-- EditText in EditorView -->
+    <string name="editor_product_name_edittext">Productname</string>
+    <string name="editor_quantity_edittext">quantity</string>
+    <string name="editor_price_of_product_edittext">price</string>
+    <string name="editor_supplier_name">Supplier Name</string>
+    <string name="editor_supplier_email">Supplier Email</string>
+    <string name="editor_supplier_email_edittext">eMail</string>
+    <string name="editor_supplier_name_edittext">Name</string>
+    <string name="editor_quantity_below_zero">The Quantity cant get below 0</string>
+    <string name="editor_request_permissions">Storage permission missing</string>
+    <string name="editor_product_name">Product Name ?</string>
+    <string name="editor_quantity">How much ?</string>
+    <string name="editor_price_of_product">Costs per Item</string>
+    <string name="editor_activity_title_new_item">Add Item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+    <string name="editor_delete_item_failed">Item delete Failed.</string>
+    <string name="editor_delete_item_successful">Deletion successful</string>
+    <string name="editor_insert_item_failed">Item insert failed</string>
+    <string name="editor_update_item_failed">Item update failed</string>
+    <string name="editor_update_item_successful">Item update successful</string>
+    <string name="editor_button_buy">Buy</string>
+    <string name="editor_button_sell">Sell</string>
+    <string name="editor_button_order">Order</string>
+    <string name="editor_insert_item_successful">Item insert successful</string>
+    <string name="editor_email_message">choose Client</string>
+    <string name="editor_no_email_client_installed">No Client</string>
+
+    <!-- MainActivity -->
+    <string name="main_button_name">Add Product</string>
+    <string name="empty_view_first_line">If you do not know how to start.</string>
+    <string name="empty_view_second_line">Just press the "Add product" button :)</string>
+
+    <!-- Editor Activity-->
+    <string name="editor_activity_no_email">There is no Email</string>
+    <!-- List item -->
+    <string name="quantity">Quantity:</string>
+    <string name="price">Price: </string>
+
+
+</resources>
